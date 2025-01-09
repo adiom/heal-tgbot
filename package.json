@@ -1,0 +1,25 @@
+{
+  "name": "heal",
+  "version": "1.0.0",
+  "main": "heal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adiom/heal-tgbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adiom/heal-tgbot/issues"
+  },
+  "homepage": "https://github.com/adiom/heal-tgbot#readme",
+  "description": "",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.47.12",
+    "dotenv": "^16.4.7",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
